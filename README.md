@@ -1,4 +1,4 @@
 # javascript---projects
 
 
-project 1 - Qu
+project 1 - Q
