@@ -1,3 +1,3 @@
 # javascript---projects
-qui
+qu
 
