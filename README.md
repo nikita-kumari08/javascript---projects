@@ -1,3 +1,3 @@
 # javascript---projects
  
-1. qui
+1. qu
