@@ -1,3 +1,3 @@
 # javascript---projects
  
-1. quiz
+1. qui
