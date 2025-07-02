@@ -44,7 +44,6 @@ This portfolio is a personal initiative to:
 | **Digital Clock**       | Live digital clock with 12/24-hour format toggle        | Coming Soon 🔧 |
 | **...more projects...** |                                                         | In Progress 🔄 |
 
----
 
 ## 🗂️ Project Structure
 
