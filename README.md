@@ -1,7 +1,7 @@
 
 # 🚀 JavaScript Projects Portfolio
 
-Welcome to my **JavaScript Projects Repository** — a curated collection of real-world projects built using **JavaScript**, **HTML5**, and **CSS3**. Each project in this repository reflects my passion for crafting intuitive, interactive, and scalable front-end applications using only core web technologies.
+Welcome to my **JavaScript Projects Repository** — a curated collection of real-world projects built using **JavaScript**, **HTML**, and **CSS3**. Each project in this repository reflects my passion for crafting intuitive, interactive, and scalable front-end applications using only core web technologies.
 
 This is more than just code — it's a demonstration of problem-solving, creativity, and continuous learning.
 
