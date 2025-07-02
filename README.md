@@ -69,8 +69,6 @@ git clone https://github.com/nikitakumari-08/JavaScript-projects.git
 Navigate to any project folder and open `index.html` in your browser.
 Using **Live Server** (VS Code extension) is recommended for the best experience.
 
----
-
 ## 🎯 Focus Areas
 
 * DOM manipulation and event handling
