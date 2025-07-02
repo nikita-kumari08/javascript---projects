@@ -16,8 +16,6 @@ This portfolio is a personal initiative to:
 * 📈 Prepare for internships, hackathons, and product-based roles
 * 🌐 Showcase my work in a structured, professional manner
 
----
-
 ## 🔧 Tech Stack
 
 | Category     | Technologies & Tools                        |
