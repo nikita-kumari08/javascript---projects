@@ -94,8 +94,6 @@ Using **Live Server** (VS Code extension) is recommended for the best experience
 * 📢 Document development progress through commits
 * 🧳 Integrate key projects into resume and portfolio
 
----
-
 ## 🤝 Let’s Connect
 
 I'm always open to opportunities, feedback, and collaborations. Feel free to reach out!
