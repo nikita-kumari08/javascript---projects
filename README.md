@@ -6,7 +6,7 @@ Welcome to my **JavaScript Projects Repository** — a curated collection of rea
 This is more than just code — it's a demonstration of problem-solving, creativity, and continuous learning.
 
 
-## 🌟 About This Repository
+## 🌟 About This Repository 
 
 This portfolio is a personal initiative to:
 
