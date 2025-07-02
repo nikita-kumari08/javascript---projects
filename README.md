@@ -12,7 +12,7 @@ This is more than just code — it's a demonstration of problem-solving, creativ
 
 ## 🌟 About This Repository
 
-
+This portfolio is a personal initiative to:
 
 * ✅ Strengthen my understanding of JavaScript fundamentals
 * 🛠️ Build fully functional, real-world applications
