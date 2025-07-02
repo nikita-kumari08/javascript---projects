@@ -26,7 +26,6 @@ This portfolio is a personal initiative to:
 | **Storage**  | `localStorage`, `sessionStorage`            |
 | **Tools**    | Git & GitHub, VS Code, Live Server, Postman |
 
----
 
 ## 📦 Project Directory
 
