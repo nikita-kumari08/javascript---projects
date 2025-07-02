@@ -77,8 +77,6 @@ Using **Live Server** (VS Code extension) is recommended for the best experience
 * Writing modular, maintainable, and scalable code
 * Creating user-centric, responsive UI components
 
----
-
 ## 📌 Goals & Roadmap
 
 * ✅ Complete 20–30 original JavaScript projects
